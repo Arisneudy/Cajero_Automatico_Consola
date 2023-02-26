@@ -1,0 +1,15 @@
+C:\Users\Arisn\Desktop\Proyectos\ProjectSem7\bin\Debug\net7.0\ProjectSem7.exe
+C:\Users\Arisn\Desktop\Proyectos\ProjectSem7\bin\Debug\net7.0\ProjectSem7.deps.json
+C:\Users\Arisn\Desktop\Proyectos\ProjectSem7\bin\Debug\net7.0\ProjectSem7.runtimeconfig.json
+C:\Users\Arisn\Desktop\Proyectos\ProjectSem7\bin\Debug\net7.0\ProjectSem7.dll
+C:\Users\Arisn\Desktop\Proyectos\ProjectSem7\bin\Debug\net7.0\ProjectSem7.pdb
+C:\Users\Arisn\Desktop\Proyectos\ProjectSem7\obj\Debug\net7.0\ProjectSem7.csproj.AssemblyReference.cache
+C:\Users\Arisn\Desktop\Proyectos\ProjectSem7\obj\Debug\net7.0\ProjectSem7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arisn\Desktop\Proyectos\ProjectSem7\obj\Debug\net7.0\ProjectSem7.AssemblyInfoInputs.cache
+C:\Users\Arisn\Desktop\Proyectos\ProjectSem7\obj\Debug\net7.0\ProjectSem7.AssemblyInfo.cs
+C:\Users\Arisn\Desktop\Proyectos\ProjectSem7\obj\Debug\net7.0\ProjectSem7.csproj.CoreCompileInputs.cache
+C:\Users\Arisn\Desktop\Proyectos\ProjectSem7\obj\Debug\net7.0\ProjectSem7.dll
+C:\Users\Arisn\Desktop\Proyectos\ProjectSem7\obj\Debug\net7.0\refint\ProjectSem7.dll
+C:\Users\Arisn\Desktop\Proyectos\ProjectSem7\obj\Debug\net7.0\ProjectSem7.pdb
+C:\Users\Arisn\Desktop\Proyectos\ProjectSem7\obj\Debug\net7.0\ProjectSem7.genruntimeconfig.cache
+C:\Users\Arisn\Desktop\Proyectos\ProjectSem7\obj\Debug\net7.0\ref\ProjectSem7.dll
